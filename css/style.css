@@ -102,7 +102,7 @@ section {
 }
 
 section h2 {
-    color:#FFA90F ;
+    color: #FFA90F;
     font-weight: 400;
 }
 
@@ -203,14 +203,14 @@ figcaption {
 
 figure {
     position: relative;
-  }
+}
 
 figure img {
     display: block;
     width: 100%;
     object-fit: cover;
     object-position: 100% 0;
-  }
+}
 
 figure h1 {
     font-size: 20px;
@@ -236,3 +236,6 @@ figure h1 {
     color: #6246E5;
 }
 
+.black {
+    color: black;
+}
