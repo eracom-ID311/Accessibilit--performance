@@ -75,7 +75,7 @@ button {
 }
 
 button a {
-    color: white;
+    color: #000;
     font-size: 18px;
     font-weight: 500;
 }
@@ -102,7 +102,7 @@ section {
 }
 
 section h2 {
-    color: #FFA90F;
+    color: #996709;
     font-weight: 400;
 }
 
@@ -234,8 +234,4 @@ figure h1 {
 
 .calltoaction {
     color: #6246E5;
-}
-
-.black {
-    color: black;
 }
